@@ -1,3 +1,6 @@
+DEVLOG Grupo: Ornitorrinco Anonimo
+INTEGRANTES: Pricila Badilla, Adolfo Cañoles, Camilo Muñoz, Rodrigo Miranda, Miguel Nahuelpan
+
 Clase 1 (Presentación de mockup 1.0):
 -Se presenta el primer mockup de la visualizacion elegida.
 -Se recibe feedback del profesor y de los compañeros.
